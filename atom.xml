@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-02-20T05:39:21.930Z</updated>
+  <updated>2022-06-30T15:50:13.615Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>理解CSS盒模型</title>
+    <link href="http://example.com/2022/06/30/css-box/"/>
+    <id>http://example.com/2022/06/30/css-box/</id>
+    <published>2022-06-30T14:44:07.000Z</published>
+    <updated>2022-06-30T15:50:13.615Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>CSS 盒模型描述了以文档树中的元素而生成的矩形框，并根据排版模式进行布局。每个盒子都有一个内容区域<code>content</code>（例如文本，图像等）以及周围可选的<code>padding</code>、<code>border</code>和<code>margin</code>区域。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;p&gt;CSS 盒模型描述了以文档树中的元素而生成的矩形框，并根据排版模式进行布局。每个盒子都有一个内容区域&lt;code&gt;content&lt;/code&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="CSS" scheme="http://example.com/tags/CSS/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello Hexo</title>
